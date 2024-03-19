@@ -84,4 +84,4 @@
   
   <img src="https://github.com/omuletzu/Guitar-Auto-Tuner-Arduino/assets/75565975/d103426a-b28e-4b5d-a0e5-1d6560ab5b3f" width="100" height="50">- *The result of the Fast Fourier Transform algorithm (frequency in Hz), which receives as input data the vibration amplitudes (that in the above example)*
 
-  <img src="https://github.com/omuletzu/Guitar-Auto-Tuner-Arduino/assets/75565975/7d8f54ec-c030-4e29-a522-d0c4fed2c9d7" width="450" height="250">- *Project final result*
+  <img src="https://github.com/omuletzu/Guitar-Auto-Tuner-Arduino/assets/75565975/7d8f54ec-c030-4e29-a522-d0c4fed2c9d7" width="450" height="250">- *Project's final result*
