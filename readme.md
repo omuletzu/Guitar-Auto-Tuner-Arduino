@@ -88,4 +88,4 @@
 
 ## Credits
 
-- uSpeech, arduinoFFT
+- uSpeech, arduinoFFT, Arduino IDE
