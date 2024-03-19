@@ -1,6 +1,6 @@
 ## Guitar autotuner
 
-  This is a guitar autotuner (only code sources for Arduino IDE).
+  This are the source codes for Arduino IDE, in order to do a guitar autotuner.
 
 ## Main objectice
 
