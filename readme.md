@@ -2,7 +2,7 @@
 
   This are the source codes for Arduino IDE, in order to do a guitar autotuner.
 
-## Main objectice
+## Main objective
 
   The main goal of this project is to help and simplify the tuning process, especially for beginners who are not good at tuning a guitar.
 
